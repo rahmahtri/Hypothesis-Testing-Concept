@@ -19,7 +19,7 @@ standard deviation : variance squared
 range : maximum minus by minimum
 quartile/quantile : divided data into four (quarto) part
 
-###Hypothesis Testing in Statistic
+### Hypothesis Testing in Statistic
 Null Hypothesis (H0) : hipotesis yang berkontradiksi dari pernyataan yang akan diuji
 Alternative Hypothesis (H1) : Hipotesis yang ingin kita uji
 P-Value : Metrics untuk mengukur resiko kesalahan menolak h0 
