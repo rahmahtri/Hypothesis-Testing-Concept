@@ -9,14 +9,14 @@ Disini menggunakan dataset [Customer Personality Analysis](https://www.kaggle.co
 
 ## Description
 ### Central Tendency Measurement
-mean : sum of all data divided by number of data
-median : middle of our data after sorted
-mode : most frequent values of data
+mean : sum of all data divided by number of data,
+median : middle of our data after sorted,
+mode : most frequent values of data,
 
 ### Spread Measurement
-variance : measures how far each number in the set is from the mean
-standard deviation : variance squared
-range : maximum minus by minimum
+variance : measures how far each number in the set is from the mean,
+standard deviation : variance squared,
+range : maximum minus by minimum,
 quartile/quantile : divided data into four (quarto) part
 
 ### Hypothesis Testing in Statistic
